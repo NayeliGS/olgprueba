@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/home/nayeligs/nuevonuevo/my-app/src/app/layout":["static/media/463dafcda517f24f-s.p.woff"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';

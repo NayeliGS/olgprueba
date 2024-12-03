@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/dispo/page": "app/dispo/page.js",
+  "/nosotros/mision/page": "app/nosotros/mision/page.js",
+  "/nosotros/page": "app/nosotros/page.js",
+  "/nosotros/trabajo/page": "app/nosotros/trabajo/page.js",
+  "/sabermas/page": "app/sabermas/page.js",
+  "/dashboard/aguv/page": "app/dashboard/aguv/page.js",
+  "/dashboard/cilynder/page": "app/dashboard/cilynder/page.js",
+  "/dashboard/highimpact/page": "app/dashboard/highimpact/page.js",
+  "/dashboard/polycarbonate/page": "app/dashboard/polycarbonate/page.js",
+  "/dashboard/single/page": "app/dashboard/single/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/progressive/page": "app/dashboard/progressive/page.js",
+  "/dashboard/uv/page": "app/dashboard/uv/page.js",
+  "/dashboard/specialty/page": "app/dashboard/specialty/page.js",
+  "/dashboard/uvshield/page": "app/dashboard/uvshield/page.js"
+}
